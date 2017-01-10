@@ -1,0 +1,6 @@
+src\simplejacc\BnfTokenizer.java
+src\simplejacc\Grammar.java
+src\simplejacc\Main.java
+src\struct\ExpCursor.java
+src\struct\ListOfDefinitions.java
+src\struct\SingleDefinition.java
